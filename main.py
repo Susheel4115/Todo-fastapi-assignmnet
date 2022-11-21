@@ -23,6 +23,7 @@ def get_db():
     finally:
         db.close()
 
+ #we can declare the type of a path parameter in the function, using standard Python type annotations:
 @app.get("/")
 async def home(request: Request, db: Session = Depends(get_db)):
     todos = db.query(models.Todo).order_by(models.Todo.id.desc())
