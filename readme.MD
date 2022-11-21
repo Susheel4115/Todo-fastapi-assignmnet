@@ -33,6 +33,11 @@ and install reuirements from requirements.txt by using this command:
 pip install requirements.txt -r
 ```
 
+![Screenshot 2022-11-21 222447](https://user-images.githubusercontent.com/74233895/203114169-581f58c3-3da9-4436-806b-2b0e18982573.png)
+
+
+![Screenshot 2022-11-21 222417](https://user-images.githubusercontent.com/74233895/203114143-9456d818-0d86-4f71-90fd-038235fc01a4.png)
+
 
 The key features are:
 
