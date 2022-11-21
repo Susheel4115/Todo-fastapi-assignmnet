@@ -2,6 +2,12 @@
 
 # gmail - gopisusheelkumar@gmail.com
 
+# Documentation:
+
+``bash
+https://fastapi.tiangolo.com/
+```
+
 run the following commands for application setup:
 
 open cmd and type following:
