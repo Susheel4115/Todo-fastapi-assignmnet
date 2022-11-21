@@ -4,7 +4,7 @@
 
 # Documentation:
 
-``bash
+```bash
 https://fastapi.tiangolo.com/
 ```
 
