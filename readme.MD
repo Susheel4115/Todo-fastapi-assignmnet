@@ -7,17 +7,22 @@ run the following commands for application setup:
 open cmd and type following:
 
 ```bash 
-pipx install virtualenv```
+pipx install virtualenv
+```
 
 ```bash 
-python -m pip install virtualenv env```
+python -m pip install virtualenv env
+```
 
 ```bash 
-env/bin/activate```
+env/bin/activate
+```
 
 ```bash 
-uvicorn main:app --reload```
+uvicorn main:app --reload
+```
 
 and install reuirements from requirements.txt by using this command:
 ```bash 
-pip install requirements.txt -r```
+pip install requirements.txt -r
+```
